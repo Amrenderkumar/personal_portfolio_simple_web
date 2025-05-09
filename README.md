@@ -109,4 +109,11 @@ Stay updated with my latest articles and insights:
 
 ## 📂 Repository Structure
 
-
+├── index.html
+├── styles/
+│ └── main.css
+├── scripts/
+│ └── main.js
+├── assets/
+│ └── images/
+├── README.md
