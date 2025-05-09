@@ -94,7 +94,7 @@ Stay updated with my latest articles and insights:
 - **📧 Email:** amrenderk66@gmail.com  
 - **🌍 Location:** San Francisco — California  
 - **🔗 Social:**  
-  [Facebook](https://www.facebook.com/amrenderkumar.amrender.923) | [Instagram](https://www.instagram.com/killerboy_110/) | [LinkedIn](https://www.linkedin.com/in/amrender-kumar-a1740b2a7/) | [GitHub](#)
+  [Facebook](https://www.facebook.com/amrenderkumar.amrender.923) | [Instagram](https://www.instagram.com/killerboy_110/) | [LinkedIn](https://www.linkedin.com/in/amrender-kumar-a1740b2a7/) | [GitHub](https://github.com/Amrenderkumar)
 
 ---
 
