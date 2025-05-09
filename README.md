@@ -81,19 +81,17 @@ Stay updated with my latest articles and insights:
 **Get Started With TikTok Ads**  
 "Phasellus et lacus suscipit congue nisi in the miss mine one miss the drana risus in tincidunt ornare."
 
-🔗 [Read More](#)
 
 ### 📅 27 June 2023  
 **UX in Ecommerce – 5 Things to Avoid**  
 "Phasellus et lacus suscipit congue nisi in the miss mine one miss the drana risus in tincidunt ornare."
 
-🔗 [Read More](#)
 
 ---
 
 ## 📬 Get in Touch
 
-- **📧 Email:** amrenderk666@gmail.com  
+- **📧 Email:** amrenderk66@gmail.com  
 - **🌍 Location:** San Francisco — California  
 - **🔗 Social:**  
   [Facebook](#) | [Instagram](#) | [LinkedIn](#) | [GitHub](#)
