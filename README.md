@@ -94,7 +94,7 @@ Stay updated with my latest articles and insights:
 - **📧 Email:** amrenderk66@gmail.com  
 - **🌍 Location:** San Francisco — California  
 - **🔗 Social:**  
-  [Facebook](#) | [Instagram](#) | [LinkedIn](#) | [GitHub](#)
+  [Facebook](https://www.facebook.com/amrenderkumar.amrender.923) | [Instagram](#) | [LinkedIn](#) | [GitHub](#)
 
 ---
 
