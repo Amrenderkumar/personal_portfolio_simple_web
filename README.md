@@ -10,8 +10,6 @@ The all portfolio content show in their github .
 
 Welcome to the personal portfolio of **Amrender Kumar** — a passionate and creative web and app developer who brings digital ideas to life through beautiful design, effective development, and modern technologies.
 
-![Portfolio Banner](./your-image-path.png)
-
 ---
 
 ## 👨‍💻 About Me
