@@ -13,7 +13,7 @@ Welcome to the personal portfolio of **Amrender Kumar** — a passionate and cre
 ---
 
 ## 👨‍💻 About Me
-
+ 
 Hi, I'm **Amrender Kumar**, a web and mobile app developer with a keen eye for design and a drive for performance. I specialize in building engaging, responsive websites and applications that offer smooth user experiences. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
 📄 **[Download My CV](#)**
